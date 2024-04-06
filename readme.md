@@ -21,4 +21,5 @@
 
 
 🔗 LinkedIn: [alessandrocapanna](https://www.linkedin.com/in/alessandro-capanna)
+
 📧 Email: [alessandrocapanna](mailto:acapanna75@gmail.com)
