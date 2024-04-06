@@ -20,5 +20,5 @@
 [![STRRL's GitHub stats](https://github-readme-stats.vercel.app/api?username=alessandrocapanna&rank_icon=github&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
 
-🔗 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/alessandro-capanna)
-📧 Email: [Your Email Address](mailto:acapanna75@gmail.com)
+🔗 LinkedIn: [alessandrocapanna](https://www.linkedin.com/in/alessandro-capanna)
+📧 Email: [alessandrocapanna](mailto:acapanna75@gmail.com)
