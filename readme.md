@@ -11,7 +11,7 @@
 
 - 👨‍💻 Freelance Back End Developer, handling diverse projects ranging from web scrapers to web applications, ensuring deliverables are aligned with client expectations.
 
-- 💼 Full-stack Developer at ARiMAS, involved in developing administrative portals, web applications, and a music streaming platform, utilizing agile methodologies for effective collaboration.
+- 💼 Full-stack Developer at ARIMAS, involved in developing administrative portals, web applications, and a music streaming platform, utilizing agile methodologies for effective collaboration.
 
 🌱 Currently studying for the Certified Kubernetes Administrator (CKA) exam.
 
